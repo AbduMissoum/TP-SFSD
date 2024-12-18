@@ -26,11 +26,11 @@ The project includes:
 ## **Installation**
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/AbduMissoum/TP-sys1-semaphors-.git
+   git clone https://github.com/AbduMissoum/TP-SFSD.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd SFSF-file-structures
+   cd TP-SFSD
    ```
 3. run the excutable file 
 ```bash
