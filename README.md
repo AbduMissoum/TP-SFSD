@@ -34,5 +34,5 @@ The project includes:
    ```
 3. run the excutable file 
 ```bash
-tp1_tp2_missoum_abdallah_g02
+./tp1_tp2_missoum_abdallah_g02
 ```
